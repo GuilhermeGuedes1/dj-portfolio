@@ -109,7 +109,6 @@ section.hero {
     align-items: center;
     text-align: center;
     font-family: "Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
-    height: 100vh;
     width: 100%;
     background-color: #2C2C2C;
 }
@@ -141,7 +140,6 @@ section.hero {
 }
 
 .about { 
-    height: auto;
     width: 100%;
     display: flex;
     justify-content: center;
